@@ -59,7 +59,7 @@ To get started with ShopAssist AI, follow these steps:
 1. **Clone the repository:**
    ```
    git clone https://github.com/shguptamts/ChatBot.git
-   cd ShopAssist-AI
+   cd ChatBot
    ```
 2. **Lunch VS Code from Anaconda**
    - In VS Code go to `File` > `Open Folder...` and select the `ShopassistAI` folder.
