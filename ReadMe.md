@@ -58,7 +58,7 @@ To get started with ShopAssist AI, follow these steps:
 
 1. **Clone the repository:**
    ```
-   git clone https://github.com/dynamicanupam/ShopAssist-AI.git
+   git clone https://github.com/shguptamts/ChatBot.git
    cd ShopAssist-AI
    ```
 2. **Lunch VS Code from Anaconda**
